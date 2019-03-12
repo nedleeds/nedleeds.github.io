@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: Galada Theme | Theme for Jekyll
-description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
+title: Lee D H | Guy In The Chair
+description: This blog is for wrap-up my study and project from 2019.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nedleeds.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
