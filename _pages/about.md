@@ -5,4 +5,7 @@ image: 08.jpg
 permalink: /about/
 ---
 
-### this is 'about' page
+### Lee Dong Hyeong
+## Korean.
+# I like new tech and study.
+
