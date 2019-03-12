@@ -18,12 +18,12 @@ author-avatar: 09.jpg
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Ned Leeds # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 
 
 #-------------------------------
@@ -37,22 +37,23 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 
 
 #-------------------------------
+#-- this is changed part.--
 # Build settings
-markdown: kramdown
-permalink: ':title/'
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+#markdown: kramdown
+#permalink: ':title/'
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
 
-paginate: 7
-paginate_path: "/page/:num"
+#paginate: 7
+#paginate_path: "/page/:num"
 
-include:
-  - _pages
+#include:
+#  - _pages
 
-sass:
-  sass_dir: _sass
-  style: compressed
+#sass:
+#  sass_dir: _sass
+#  style: compressed
 
 
 #-------------------------------
